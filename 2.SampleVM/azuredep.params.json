@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "adminUsername": {
-        "value": "mifurmadm"
+        "value": "bartoszfadm"
       },
       "adminPassword": {
         "value": "<password>"
       },
       "dnsLabelPrefix": {
-        "value": "mifurmdns01"
+        "value": "bartoszfdns01"
       }
     }
   }
